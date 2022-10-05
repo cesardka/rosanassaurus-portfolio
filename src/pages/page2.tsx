@@ -1,7 +1,7 @@
 export const Page2 = () => (
   <article id="page-two-summary">
     <img
-      src="/assets/page2.png"
+      src="/assets/images/page2.png"
       alt="Pink hand with a smiley face on the left side. Pen with a heart shaped tip on the right side."
     />
     <p>

@@ -18,13 +18,13 @@ export const Page1 = () => (
         }}
       >
         <img
-          src="/assets/page1-nome.png"
+          src="/assets/images/page1-nome.png"
           alt="Rosana"
           style={{ width: "400px", placeSelf: "flex-end" }}
         />
       </Ztext>
       <img
-        src="/assets/page1.png"
+        src="/assets/images/page1.png"
         alt="Corpo sem face"
         style={{ height: "80vh" }}
       />
